@@ -11,6 +11,11 @@
 ## Dependencias
 * [vRPex](https://github.com/contatosummerz/vrpex) ou [vRP](https://github.com/ImagicTheCat/vRP/tree/1.0)
 
+## Greetings
+- [Lucas Silva](https://github.com/OLucasPk) - Desenvolvedor líder
+- [Gustavo Luiz](https://github.com/gustavovk) - Desenvolvedor
+
+
 ## Problemas
 
 Os problemas devem ser relatados à equipe de desenvolvimento e serão corrigidos o mais rápido possível.
