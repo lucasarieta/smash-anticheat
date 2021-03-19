@@ -13,6 +13,11 @@ You can also read this README in [Portuguese](https://github.com/OLucasPk/smash-
 ## Dependencies
 * [vRPex](https://github.com/contatosummerz/vrpex) or [vRP](https://github.com/ImagicTheCat/vRP/tree/1.0)
 
+## Greetings
+- [Lucas Silva](https://github.com/OLucasPk) - Lead Developer
+- [Gustavo Luiz](https://github.com/gustavovk) - Developer
+
+
 ## Issues
 
 Issues must be reported to dev team and they will be corrected soon as possible.
