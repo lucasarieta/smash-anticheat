@@ -1,4 +1,4 @@
-# smash-ac
+# smash-anticheat
 
 <p align="center">
   <a href="https://github.com/GHMatti/ghmattimysql/blob/master/license.md">
@@ -12,8 +12,7 @@
 * [vRPex](https://github.com/contatosummerz/vrpex) ou [vRP](https://github.com/ImagicTheCat/vRP/tree/1.0)
 
 ## Greetings
-- [Lucas Silva](https://github.com/OLucasPk) - Desenvolvedor líder
-- [Gustavo Luiz](https://github.com/gustavovk) - Desenvolvedor
+- [Lucas Silva](https://github.com/OLucasPk) - Desenvolvedor
 
 
 ## Problemas

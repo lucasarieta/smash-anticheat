@@ -12,7 +12,7 @@ Citizen.CreateThread(function()
         local weapon_damage = GetPlayerWeaponDamageModifier(ped)
 
         if parseInt(weapon_damage) > 1.0 then
-            vPUNISHMENTS.applyPunish({ reason = "Dano aumentado **(SUSPEITA I)**", punishment = "Kick", requireScreenshoot = false });
+            serverAPI.applyPunish({ reason = "Dano aumentado", punishment = "Kick", requireScreenshoot = false });
         end
 
         Citizen.Wait(1000)

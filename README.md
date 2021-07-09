@@ -1,4 +1,4 @@
-# smash-ac
+# smash-anticheat
 
 <p align="center">
   <a href="https://github.com/GHMatti/ghmattimysql/blob/master/license.md">
@@ -14,9 +14,7 @@ You can also read this README in [Portuguese](https://github.com/OLucasPk/smash-
 * [vRPex](https://github.com/contatosummerz/vrpex) or [vRP](https://github.com/ImagicTheCat/vRP/tree/1.0)
 
 ## Greetings
-- [Lucas Silva](https://github.com/OLucasPk) - Lead Developer
-- [Gustavo Luiz](https://github.com/gustavovk) - Developer
-
+- [Lucas Silva](https://github.com/OLucasPk) - Developer
 
 ## Issues
 
