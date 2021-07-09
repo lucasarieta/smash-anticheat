@@ -20,3 +20,7 @@
 Os problemas devem ser relatados à equipe de desenvolvimento e serão corrigidos o mais rápido possível.
 
 Alguns sistemas têm chance de falsos positivos, sempre tente analisar o jogador antes de aplicar qualquer banimento.
+
+## Obsolescência
+
+Alguns módulos provavelmente estão desatualizados e não serão atualizados, portanto interessados deverão melhorar tais que contenham falsos postivios ou deixem de funcionar.

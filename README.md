@@ -21,3 +21,7 @@ You can also read this README in [Portuguese](https://github.com/OLucasPk/smash-
 Issues must be reported to dev team and they will be corrected soon as possible.
 
 Some systems have a chance of false positive, always try to analyze the player before applying any ban.
+
+## Obsolescence
+
+Some modules are probably out of date and will not be updated, so interested parties should improve those that contain false postitives or no longer work.
